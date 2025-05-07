@@ -1,5 +1,6 @@
-# My_coding_test
-
+# RaiRaichachacha_codingtest
+**라이라이차차차_코딩테스트**
+<br/>
 이 레포지토리는 제가 코딩테스트를 연습하며 
 난이도 불문
 문제들을 커밋하는 레포지토리입니다.
