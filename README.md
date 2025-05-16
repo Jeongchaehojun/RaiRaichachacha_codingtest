@@ -5,7 +5,8 @@
 난이도 불문
 문제들을 커밋하는 레포지토리입니다.
 <br/>
-백준 baekjoon 브론즈5부터 기초 도장깨기 시작합니다.
+백준 baekjoon 브론즈5부터 기초 도장깨기 시작합니다.<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sealion)](https://solved.ac/sealion/)
 
 ## 방식 설명
 
@@ -24,4 +25,5 @@
 -solution() 같은 함수 없고, 직접 구현 후 제출
 
 **2025.05.06 ~ 진행 중** <br/>
+2025.05.14 **8일차**: 실버5 달성 <br/>
 2025.05.16 **10일차**: 브론즈5 문제 거의 다 했으나 '단계별로 풀어보기' 옵션을 섞어 풀기 시작
