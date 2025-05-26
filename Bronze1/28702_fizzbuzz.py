@@ -1,18 +1,23 @@
 #2025.05.26
 #b1
-s = [input().strip() for _ in range(3)]
+first = input()
+second = input()
+third = input()
 
-def fizzbuzz(n):
-    if n % 15 == 0:
-        return "FizzBuzz"
-    elif n % 3 == 0:
-        return "Fizz"
-    elif n % 5 == 0:
-        return "Buzz"
-    else:
-        return str(n)
-i = 1
-while True:
-    if [fizzbuzz(i), fizzbuzz(i+1), fizzbuzz(i+2)] == s:
-        print(fizzbuzz(i+3))
-        break
+next = 0
+
+if first.isdigit():
+    next = int(first) + 3 #isdigit()으로 숫자인지 판단해서 next 값을 추정
+elif second.isdigit():
+    next = int(second) + 2
+elif third.isdigit():
+    next = int(third) + 1
+
+if next % 15 == 0:
+    print("FizzBuzz")
+elif next % 3 == 0:
+    print("Fizz")
+elif next % 5 == 0:
+    print("Buzz")
+else:
+    print(next)
