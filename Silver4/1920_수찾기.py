@@ -33,6 +33,7 @@ input = sys.stdin.readline
 N = int(input())
 A = set(map(int, input().split())) #리스트를 set으로
 #set을 쓰면 {1,2,3,4,5} 이런 식으로 진행됨
+#set을 쓰면 정렬 되는 것은 아니지만 해시값을 써서 중복은 제거된다.
 M = int(input())
 targets = list(map(int, input().split()))
 
