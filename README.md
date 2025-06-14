@@ -36,3 +36,4 @@
 2025.06.11 **36일차**: 4949_균형잡힌: 괄호 판단 스택<br/>
 2025.06.12 **37일차**: 10773_제로: if stack: 비어있지 않으면 True <br/>
 2025.06.13 **38일차**: 14626_ISBN: for i, ch in enumerate(numbers[:-1] <br/>
+2025.06.14 **39일차**: 11866_요세푸스: deq.rotate(-(k-1), result.append(deq.popleft()) <br/>
