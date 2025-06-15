@@ -37,3 +37,4 @@
 2025.06.12 **37일차**: 10773_제로: if stack: 비어있지 않으면 True <br/>
 2025.06.13 **38일차**: 14626_ISBN: for i, ch in enumerate(numbers[:-1] <br/>
 2025.06.14 **39일차**: 11866_요세푸스: deq.rotate(-(k-1), result.append(deq.popleft()) <br/>
+2025.06.15 **40일차**: 10816_숫자카드2:from collections import Counter<br/>
