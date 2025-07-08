@@ -1,0 +1,5 @@
+#2025.07.09
+#브론즈2 하 오사카 여행때매 이걸 못해ㅛ다ㅏㅏㅏ
+n = int(input().strip())
+nums = list(map(int, input().split()))
+print(n - len(set(nums)))
