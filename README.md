@@ -8,6 +8,8 @@
 백준 baekjoon 브론즈5부터 기초 도장깨기 시작합니다.<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sealion)](https://solved.ac/sealion/)
 
+'🔥' 이모지는 중요하다는 뜻으로 한 번 보면 좋다는 표시
+
 ## 방식 설명
 
 🦖1. **프로그래머스, Codility, HackerRank** 등 → 함수형
