@@ -1,0 +1,13 @@
+#2025.10.21
+#b3
+N, K = map(int, input().split())
+
+count = 0
+for i in range(1, N + 1):
+    if N % i == 0:
+        count += 1
+        if count == K:
+            print(i)
+            break
+else:
+    print(0)
